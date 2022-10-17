@@ -1,0 +1,6 @@
+C:\Users\galib\source\repos\ball control\ball control\obj\Debug\ball control.csproj.AssemblyReference.cache
+C:\Users\galib\source\repos\ball control\ball control\obj\Debug\ball control.csproj.SuggestedBindingRedirects.cache
+C:\Users\galib\source\repos\ball control\ball control\obj\Debug\ball_control.Form1.resources
+C:\Users\galib\source\repos\ball control\ball control\obj\Debug\ball_control.Properties.Resources.resources
+C:\Users\galib\source\repos\ball control\ball control\obj\Debug\ball control.csproj.GenerateResource.cache
+C:\Users\galib\source\repos\ball control\ball control\obj\Debug\ball control.csproj.CoreCompileInputs.cache
